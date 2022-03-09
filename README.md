@@ -95,18 +95,17 @@ return [
 ### Tampilan Desktop
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2011.37.59.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2011.38.02.png" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/3.jpg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/4.jpg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/5.jpg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/6.jpg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/7.jpg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/8.jpg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/9.jpg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.01.00.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.01.20.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.01.54.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.02.58.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.03.10.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.03.18.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.03.36.png" alt="Screenshot"/>
 
 ### Tampilan Mobile
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-1.jpeg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-2.jpeg" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/sipax/blob/master/screenshot/mobile-3.jpeg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/WhatsApp%20Image%202022-03-08%20at%2017.03.58%20(1).jpeg" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/WhatsApp%20Image%202022-03-08%20at%2017.03.58.jpeg" alt="Screenshot"/>
 
 ## Database Installation
 ```
