@@ -93,15 +93,15 @@ return [
 
 ## Screenshot Aplikasi
 ### Tampilan Desktop
-<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2011.37.59.png" alt="Screenshot"/>
-<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2011.38.02.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.01.00.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.01.20.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2011.38.02.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.01.54.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.02.58.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.03.10.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.03.18.png" alt="Screenshot"/>
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2012.03.36.png" alt="Screenshot"/>
+<img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/Screen%20Shot%202022-03-09%20at%2011.37.59.png" alt="Screenshot"/>
 
 ### Tampilan Mobile
 <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/WhatsApp%20Image%202022-03-08%20at%2017.03.58%20(1).jpeg" alt="Screenshot"/>
