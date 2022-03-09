@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://presma.uny.ac.id" title="PRESMA" target="_blank">
-        <img src="https://presma.uny.ac.id/css/presma_2021/assets/images/logo/logo_presma_2021.png" alt="Sipresma"/>
+        <img src="https://github.com/AIMAGU/prestasi-mahasiswa/blob/main/screenshot/logo-kemendikbud-kementerian-pendidikan-dan-kebudayaan-1.jpeg" alt="Sipresma"/>
     </a>
     <br>
     Sistem Informasi Prestasi Mahasiswa
