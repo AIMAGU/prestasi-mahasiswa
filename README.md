@@ -116,4 +116,4 @@ yii migrate
 Kontak via [Whatsapp](https://api.whatsapp.com/send?phone=6285742974933&text=Saya%20tertarik%20untuk%20membeli%20aplikasi%20SIPRESMA)
 
 ## License
-**SIPAX** is released under the BSD-3-Clause License. See the bundled `LICENSE.md` for details.
+**SIPRESMA** is released under the BSD-3-Clause License. See the bundled `LICENSE.md` for details.
